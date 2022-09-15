@@ -28,6 +28,10 @@
 <img src="https://user-images.githubusercontent.com/87401241/190394258-da177381-f5d8-4138-bfb3-46120c5355a7.png" width="100%">
 
 ### 2. 블루투스 통신
+- 아두이노와 안드로이드 앱 간의 블루투스 통신으로 동기화
+- 테이블에 컵이 인식되면 앱에서도 해당 위치가 점등
+- 앱에서 모드, 음악을 변경시 테이블에 적용 (테이블에서 변경시 앱에도 적용)
+<img src="https://user-images.githubusercontent.com/87401241/190394736-4e6ac3a4-6b66-49a0-93d5-ce7a30b0ae50.png" width="100%">
 
 
 ### 3. 제스처 인식
