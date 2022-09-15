@@ -1,5 +1,6 @@
 # CoffeeTable
 커피테이블 (Arduino + Android)
+
 <img src="https://user-images.githubusercontent.com/87401241/190396893-1c7db836-3f85-47b7-8b35-2ca292c73953.gif" width="30%">
 
 ## 목적
