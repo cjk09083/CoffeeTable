@@ -23,8 +23,7 @@
 - 적외선 센서를 이용하여 각 네모칸에 컵이 올라왔는지 아닌지 인식
 - 적외선 발신부와 수신부를 다른각도로 설치하여 테이블 윗면에 장착된 아크릴은 인식못하고 컵만 인식되도록 조절
 - 컵이 인식되면 아래와 같이 파도 형태로 빛이 퍼져나감
-  <img src="https://user-images.githubusercontent.com/87401241/190394288-921b683e-1b97-44fa-966c-8fc42c9e6a21.png" width="30%">
-  <img src="https://user-images.githubusercontent.com/87401241/190397984-9f03adfe-203f-4e83-8655-7b98aab334f1.gif" width="30%">
+<img src="https://user-images.githubusercontent.com/87401241/190394288-921b683e-1b97-44fa-966c-8fc42c9e6a21.png" width="70%"> <img src="https://user-images.githubusercontent.com/87401241/190397984-9f03adfe-203f-4e83-8655-7b98aab334f1.gif" width="30%">
 
 - 현재 색상 모드에 따라 다른 색으로 빛남 (4번 모드는 무작위 색상)
 <img src="https://user-images.githubusercontent.com/87401241/190394258-da177381-f5d8-4138-bfb3-46120c5355a7.png" width="100%">
