@@ -1,6 +1,6 @@
 # CoffeeTable
 
-커피테이블 (Arduino + Android)
+커피테이블 
 <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
