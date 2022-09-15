@@ -22,10 +22,10 @@
 ### 1. 컵 인식
 - 적외선 센서를 이용하여 각 네모칸에 컵이 올라왔는지 아닌지 인식
 - 컵이 인식되면 아래와 같이 파도 형태로 빛이 퍼져나감
-<img src="https://user-images.githubusercontent.com/87401241/190394288-921b683e-1b97-44fa-966c-8fc42c9e6a21.PNG" width="600">
+<img src="https://user-images.githubusercontent.com/87401241/190394288-921b683e-1b97-44fa-966c-8fc42c9e6a21.png" width="600">
 
 - 현재 색상 모드에 따라 다른 색으로 빛남 (4번 모드는 무작위 색상)
-<img src="https://user-images.githubusercontent.com/87401241/190394258-da177381-f5d8-4138-bfb3-46120c5355a7.PNG" width="600">
+<img src="https://user-images.githubusercontent.com/87401241/190394258-da177381-f5d8-4138-bfb3-46120c5355a7.png" width="600">
 
 ### 2. 블루투스 통신
 
