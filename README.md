@@ -24,7 +24,7 @@
 - 적외선 발신부와 수신부를 다른각도로 설치하여 테이블 윗면에 장착된 아크릴은 인식못하고 컵만 인식되도록 조절
 - 컵이 인식되면 아래와 같이 파도 형태로 빛이 퍼져나감
 <figure class="half">
-  <img src="https://user-images.githubusercontent.com/87401241/190394288-921b683e-1b97-44fa-966c-8fc42c9e6a21.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/87401241/190394288-921b683e-1b97-44fa-966c-8fc42c9e6a21.png" width="30%">
   <img src="https://user-images.githubusercontent.com/87401241/190396569-9f03adfe-203f-4e83-8655-7b98aab334f1.gif" width="30%">
 </figure>
 
