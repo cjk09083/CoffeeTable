@@ -27,7 +27,8 @@
 <img src="https://user-images.githubusercontent.com/87401241/190396569-34e3623d-e900-4d63-b6bc-f5327dc152a5.gif" width="20%">
 
 - 현재 색상 모드에 따라 다른 색으로 빛남 (4번 모드는 무작위 색상)
-<img src="https://user-images.githubusercontent.com/87401241/190394258-da177381-f5d8-4138-bfb3-46120c5355a7.png" width="100%">
+<img src="https://user-images.githubusercontent.com/87401241/190394258-da177381-f5d8-4138-bfb3-46120c5355a7.png" width="60%">
+<img src="https://user-images.githubusercontent.com/87401241/190396893-1c7db836-3f85-47b7-8b35-2ca292c73953.gif" width="30%">
 
 ### 2. 블루투스 통신
 - 아두이노와 안드로이드 앱 간의 블루투스 통신으로 동기화
