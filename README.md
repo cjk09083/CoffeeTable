@@ -1,5 +1,8 @@
 # CoffeeTable
+
 커피테이블 (Arduino + Android)
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 
 <img src="https://user-images.githubusercontent.com/87401241/190396893-1c7db836-3f85-47b7-8b35-2ca292c73953.gif" width="30%">
 
