@@ -7,6 +7,8 @@
 
 ## 구성
 ![table items](https://user-images.githubusercontent.com/87401241/190392601-c50d67c5-e14e-4ef8-ba51-c793faf3b898.PNG){: width="500" height="400"}
+<img src="https://user-images.githubusercontent.com/87401241/190392601-c50d67c5-e14e-4ef8-ba51-c793faf3b898.PNG" width="300" height="300">
+
 - 아두이노 메가 + MP3 쉴드
 - 적외선 센서
 - LED
