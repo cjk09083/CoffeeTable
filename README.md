@@ -24,12 +24,12 @@
 - 적외선 발신부와 수신부를 다른각도로 설치하여 테이블 윗면에 장착된 아크릴은 인식못하고 컵만 인식되도록 조절
 - 컵이 인식되면 아래와 같이 파도 형태로 빛이 퍼져나감
 <figure class="half">
-<img src="https://user-images.githubusercontent.com/87401241/190394288-921b683e-1b97-44fa-966c-8fc42c9e6a21.png" width="80">
-<img src="https://user-images.githubusercontent.com/87401241/190396569-34e3623d-e900-4d63-b6bc-f5327dc152a5.gif" width="20">
+  <img src="https://user-images.githubusercontent.com/87401241/190394288-921b683e-1b97-44fa-966c-8fc42c9e6a21.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/87401241/190396569-9f03adfe-203f-4e83-8655-7b98aab334f1.gif" >
 </figure>
 
 - 현재 색상 모드에 따라 다른 색으로 빛남 (4번 모드는 무작위 색상)
-<img src="https://user-images.githubusercontent.com/87401241/190394258-da177381-f5d8-4138-bfb3-46120c5355a7.png" width="60%">
+<img src="https://user-images.githubusercontent.com/87401241/190394258-da177381-f5d8-4138-bfb3-46120c5355a7.png" width="100%">
 <img src="https://user-images.githubusercontent.com/87401241/190396893-1c7db836-3f85-47b7-8b35-2ca292c73953.gif" width="30%">
 
 ### 2. 블루투스 통신
