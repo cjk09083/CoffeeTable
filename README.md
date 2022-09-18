@@ -4,7 +4,9 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=Bluetooth&logoColor=white"/></a>
 
+<div align="center">
 <img src="https://user-images.githubusercontent.com/87401241/190396893-1c7db836-3f85-47b7-8b35-2ca292c73953.gif" width="30%">
+</div></br>
 
 ## 목적
 - 기존 테이블에 컵 감지와, 제스처, 음악재생 기능을 추가
@@ -15,7 +17,10 @@
 - 안드로이드 앱 제작
 
 ## 구성
+
+<div align="center">
 <img src="https://user-images.githubusercontent.com/87401241/190392601-c50d67c5-e14e-4ef8-ba51-c793faf3b898.PNG" width="50%">
+</div></br>
 
 - 아두이노 메가 + MP3 쉴드
 - 적외선 센서
@@ -24,6 +29,7 @@
 - 블루투스 모듈
 
 ## 기능
+
 ### 1. 컵 인식
 - 적외선 센서를 이용하여 각 네모칸에 컵이 올라왔는지 아닌지 인식
 - 적외선 발신부와 수신부를 다른각도로 설치하여 테이블 윗면에 장착된 아크릴은 인식못하고 컵만 인식되도록 조절
